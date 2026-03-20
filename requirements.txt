@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymupdf
+sentence-transformers
+qdrant-client
+sqlalchemy
+requests
+python-multipart

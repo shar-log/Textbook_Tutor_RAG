@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Qdrant local DB
+data/qdrant/
+*.sqlite
+*.db
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Env files
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+frontend/.next/
+frontend/node_modules/
